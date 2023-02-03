@@ -1,0 +1,15 @@
+C:\Users\nsfge\OneDrive\Documentos\ws#c\Balta\Fundamentos_C#\projeto_calculadora\calculator\bin\Debug\net7.0\Calculator.exe
+C:\Users\nsfge\OneDrive\Documentos\ws#c\Balta\Fundamentos_C#\projeto_calculadora\calculator\bin\Debug\net7.0\Calculator.deps.json
+C:\Users\nsfge\OneDrive\Documentos\ws#c\Balta\Fundamentos_C#\projeto_calculadora\calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+C:\Users\nsfge\OneDrive\Documentos\ws#c\Balta\Fundamentos_C#\projeto_calculadora\calculator\bin\Debug\net7.0\Calculator.dll
+C:\Users\nsfge\OneDrive\Documentos\ws#c\Balta\Fundamentos_C#\projeto_calculadora\calculator\bin\Debug\net7.0\Calculator.pdb
+C:\Users\nsfge\OneDrive\Documentos\ws#c\Balta\Fundamentos_C#\projeto_calculadora\calculator\obj\Debug\net7.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\nsfge\OneDrive\Documentos\ws#c\Balta\Fundamentos_C#\projeto_calculadora\calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsfge\OneDrive\Documentos\ws#c\Balta\Fundamentos_C#\projeto_calculadora\calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\nsfge\OneDrive\Documentos\ws#c\Balta\Fundamentos_C#\projeto_calculadora\calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+C:\Users\nsfge\OneDrive\Documentos\ws#c\Balta\Fundamentos_C#\projeto_calculadora\calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\nsfge\OneDrive\Documentos\ws#c\Balta\Fundamentos_C#\projeto_calculadora\calculator\obj\Debug\net7.0\Calculator.dll
+C:\Users\nsfge\OneDrive\Documentos\ws#c\Balta\Fundamentos_C#\projeto_calculadora\calculator\obj\Debug\net7.0\refint\Calculator.dll
+C:\Users\nsfge\OneDrive\Documentos\ws#c\Balta\Fundamentos_C#\projeto_calculadora\calculator\obj\Debug\net7.0\Calculator.pdb
+C:\Users\nsfge\OneDrive\Documentos\ws#c\Balta\Fundamentos_C#\projeto_calculadora\calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+C:\Users\nsfge\OneDrive\Documentos\ws#c\Balta\Fundamentos_C#\projeto_calculadora\calculator\obj\Debug\net7.0\ref\Calculator.dll
